@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="hello_world">Hello world :) !</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="new_activity">Kliknij mnie</string>
+    <string name="internet">Internety</string>
+    <string name="id">id</string>
+
+
+    <string name="fragment1">Fragment2</string>
+    <string name="fragment2">Fragment1</string>
+
+</resources>

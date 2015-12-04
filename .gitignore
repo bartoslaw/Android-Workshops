@@ -1,0 +1,15 @@
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+/.idea/gradle.xml
+/.idea/misc.xml
+/.idea/modules.xml
+.DS_Store
+/build
+/captures
+app/app.iml
+libsmodule/libsmodule.iml
+seconmodule/seconmodule.iml
+servicesandreceiver/servicesandreceivers.iml
+
