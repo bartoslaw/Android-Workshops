@@ -15,7 +15,7 @@ public class WeatherRequest {
         params.add("mode", "json");
         params.add("units", "metric");
         params.add("appid", "2de143494c0b295cca9337e1e96b00e0");
-        params.add("cnt", day);
+        params.add("cnt", days);
 
         client.get(BackendConstants.BASE_URL + BackendConstants.ENDPOINT, params, asyncHTTPClient);
     }

@@ -28,9 +28,14 @@ Zadania do wykonania - moduł app:
 <br>http://developer.android.com/reference/android/support/v4/app/NotificationCompat.Builder.html
 <br>
 <br>Zadania do wykonania - moduł libsapp:
-<br>1. Uzupełnij dane w elemencie listy
+<br>1. Wywołaj funkcje WeatherRequest.getWeather
+<br> http://loopj.com/android-async-http/
+<br>2. Sparsuj przy pomocy Gson otrzymany wynik
+<br> http://google.github.io/gson/apidocs/
+<br>3. Uzupełnij dane w elemencie listy
+<br>4. Uzupełnij dane w elemencie listy
 <br>http://developer.android.com/reference/android/widget/TextView.html
-<br>2. Obrazek załaduj przy pomocy Picasso
+<br>5. Obrazek załaduj przy pomocy Picasso
 <br>http://square.github.io/picasso/
 Add Comment
 <br>
